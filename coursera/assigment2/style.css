@@ -1,0 +1,31 @@
+.card{
+    border: 3px solid black;
+    display: flex;
+    position: relative;
+    margin-bottom: 10px;
+}
+a{
+    border: 2px solid black;
+    text-decoration: none;
+    padding: 10px 15px ;
+}
+p{
+    padding-top: 25px;
+}
+.title{
+    position: absolute;
+    right: 0;
+    
+}
+.chicken{
+    background-color: pink;
+    color: black;
+}
+.beef{
+    background-color: orangered;
+    color: white;
+}
+.sushi{
+    background-color: yellow;
+    color: black;
+}
